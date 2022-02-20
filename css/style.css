@@ -58,7 +58,7 @@ p {
     position: relative;
     padding: 200px;
     line-height: 2;
-    background-image: url("images/background.jpg");
+    background-image: url("/images/background.jpg");
 
 }
 
