@@ -17,8 +17,7 @@ h1 {
     margin-top: 50px auto 0 auto;
     font-family: 'Caveat', cursive;
     color: bisque;
-    margin-top: 50px;
-    margin-left: 650px;
+
     font-weight: lighter;
 }
 
@@ -54,11 +53,11 @@ p {
 .top-container {
 
 
-
+    background-color: #B4CFB0;
     position: relative;
     padding: 200px;
     line-height: 2;
-    background-image: url("/images/background.jpg");
+
 
 }
 
@@ -206,7 +205,7 @@ hr {
 
     color: bisque;
 
-    margin-left: 650px;
+
 
 
 }
